@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aadrika-portfolio/static/css/main.ed133e37.css",
+    "main.js": "/aadrika-portfolio/static/js/main.0bb20087.js",
+    "index.html": "/aadrika-portfolio/index.html",
+    "main.ed133e37.css.map": "/aadrika-portfolio/static/css/main.ed133e37.css.map",
+    "main.0bb20087.js.map": "/aadrika-portfolio/static/js/main.0bb20087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed133e37.css",
+    "static/js/main.0bb20087.js"
+  ]
+}
