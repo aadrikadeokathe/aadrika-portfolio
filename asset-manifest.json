@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/aadrika-portfolio/static/css/main.6ae23976.css",
-    "main.js": "/aadrika-portfolio/static/js/main.2c55b34f.js",
+    "main.css": "/aadrika-portfolio/static/css/main.47577195.css",
+    "main.js": "/aadrika-portfolio/static/js/main.48d33cf7.js",
     "index.html": "/aadrika-portfolio/index.html",
-    "main.6ae23976.css.map": "/aadrika-portfolio/static/css/main.6ae23976.css.map",
-    "main.2c55b34f.js.map": "/aadrika-portfolio/static/js/main.2c55b34f.js.map"
+    "main.47577195.css.map": "/aadrika-portfolio/static/css/main.47577195.css.map",
+    "main.48d33cf7.js.map": "/aadrika-portfolio/static/js/main.48d33cf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ae23976.css",
-    "static/js/main.2c55b34f.js"
+    "static/css/main.47577195.css",
+    "static/js/main.48d33cf7.js"
   ]
 }
